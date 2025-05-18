@@ -2,7 +2,7 @@
 
 - 🔭 I’m a computer science master graduated from National Cheng-chi University, Taiwan. I learned Satifiability Modulo Theory for program verification and path condition program analysis techniques when I was a doctoral student. I'm currently working as a contract Java full-stack software engineer to find their best practices.
 
-I'm proficient in Java and Eclipse. I'm familiar with C/C++, JavaScript, JSP, PL/SQL, Git, Jenkins CI/CD and Jira.
+- I'm proficient in Java and Eclipse. I'm familiar with C/C++, JavaScript, JSP, PL/SQL, Git, Jenkins CI/CD and Jira.
 
 <!--
 **chenyikao/chenyikao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

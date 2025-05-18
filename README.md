@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m a computer science master graduated from National Cheng-chi University, Taiwan. I learned Satisfiability Modulo Theory for program verification and path condition program analysis techniques when I was a doctoral student. I'm currently working as a contract Java full-stack software engineer to find their best practices.
+- 🔭 I’m a computer science master graduated from National Cheng-chi University, Taiwan. I learned Satisfiability Modulo Theory for program verification and path condition program analysis techniques when I was a doctoral student. I'm currently working as a contract Java full-stack software engineer to find their potential best practices while accomplishing the demands from contractors.
 
 - I'm proficient in Java and Eclipse. I'm familiar with C/C++, JavaScript, JSP, PL/SQL, Git, Jenkins CI/CD and Jira.
 

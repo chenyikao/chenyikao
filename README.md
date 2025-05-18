@@ -1,7 +1,17 @@
 ## Hi there 👋
 
+- 🔭 I’m a computer science master graduated from National Cheng-chi University, Taiwan. I learned Satifiability Modulo Theory for program verification and path condition program analysis techniques when I was a doctoral student. I'm currently working as a contract Java full-stack software engineer to find their best practices.
+
+I'm proficient in Java and Eclipse. I'm familiar with C/C++, JavaScript, JSP, PL/SQL, Git, Jenkins CI/CD and Jira.
+
 <!--
 **chenyikao/chenyikao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Professional experience: Describe where you've worked before and what sort of professional skills you've built. These can even be non-technical skills, such as communication and empathy.
+
+Some of your best projects: Describe some projects you're proud of. You'll also pin these repositories later, but your README gives you a chance to provide more commentary.
+
+Achievements or awards: Show off any of your achievements, including certifications or awards you've received for your work.
 
 Here are some ideas to get you started:
 
